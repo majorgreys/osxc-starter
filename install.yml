@@ -13,7 +13,23 @@
     - ctags
     - reattach-to-user-namespace
     - tmux
+    - pandoc
     cask_packages:
     - font-inconsolata-for-powerline
+    - font-inconsolata
+    - font-ubuntu
     - iterm2
     - macvim
+    - google-chrome
+    - spotify
+    - slack
+    - dropbox
+    - google-drive
+    - atom
+    - evernote
+    - visual-studio-code
+    - microsoft-office
+    - anaconda
+    - zotero
+    - skim
+    - basictex
